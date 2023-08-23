@@ -23,6 +23,7 @@ Whitepapers are supposed to be one page, but at the Town Hall, Working Group co-
 | Leigh Fletcher     | [Google Docs](https://docs.google.com/document/d/1WJYXi-yH84tX3WQTzTbSjRq7j9zj4kaKwR3EQJUFp44)       | Impacts and Storms on Jupiter and Saturn  | Comment on Google Docs |
 | Amy Simon | [GitHub docx](simon-JWST_long_v3.docx) | OPAL-type program | Send comments to amy.simon@nasa.gov |
 | Mike Wong | -- | Cadence observations supporting NASA planetary exploration | Send comments to mikewong@astro.berkeley.edu |
+| Mike Wong | -- | APT checkbox: Long-term variability | Send comments to mikewong@astro.berkeley.edu |
 
 
 

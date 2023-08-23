@@ -19,8 +19,10 @@ Whitepapers are supposed to be one page, but at the Town Hall, Working Group co-
 
 | Lead author | Link | Topic | Request |
 | :---         |     :---     | :--- | :--- |
-| Leigh Fletcher   | [Google Docs](https://docs.google.com/document/d/1ArhQffe0wiP8N88vIxjJ9umiaty-q813Tr1u38E94Fg)     | Seasonal Variability / 3 Giant Planets    | Cmment on Google Docs |
-| Leigh Fletcher     | [Google Docs](https://docs.google.com/document/d/1WJYXi-yH84tX3WQTzTbSjRq7j9zj4kaKwR3EQJUFp44)       | Impacts and Storms on Jupiter and Saturn  | Cmment on Google Docs |
+| Leigh Fletcher   | [Google Docs](https://docs.google.com/document/d/1ArhQffe0wiP8N88vIxjJ9umiaty-q813Tr1u38E94Fg)     | Seasonal Variability / 3 Giant Planets    | Comment on Google Docs |
+| Leigh Fletcher     | [Google Docs](https://docs.google.com/document/d/1WJYXi-yH84tX3WQTzTbSjRq7j9zj4kaKwR3EQJUFp44)       | Impacts and Storms on Jupiter and Saturn  | Comment on Google Docs |
 | Amy Simon | GitHub docx | OPAL-type program | Send comments to amy.simon@nasa.gov |
+| Mike Wong | -- | OPAL-type program | Send comments to amy.simon@nasa.gov |
+
 
 

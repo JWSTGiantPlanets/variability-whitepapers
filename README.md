@@ -24,6 +24,7 @@ Whitepapers are supposed to be one page, but at the Town Hall, Working Group co-
 | Amy Simon | [GitHub docx](simon-JWST_long_v4.docx) | OPAL-type program | Send comments to amy.simon@nasa.gov |
 | Mike Wong | -- | Cadence observations supporting NASA planetary exploration | Send comments to mikewong@astro.berkeley.edu |
 | Mike Wong | -- | APT checkbox: Long-term variability | Send comments to mikewong@astro.berkeley.edu |
+| Damya Souami | -- | Long-term monitoring of the rings of Ice Giants with JWST/NIRCam | Send comments to damya.souami@obspm.fr or damya.souami@berkeley.edu |
 
 
 

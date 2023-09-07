@@ -22,7 +22,7 @@ Whitepapers are supposed to be one page, but at the Town Hall, Working Group co-
 | Leigh Fletcher   | [Google Docs](https://docs.google.com/document/d/1ArhQffe0wiP8N88vIxjJ9umiaty-q813Tr1u38E94Fg/edit?usp=sharing)     | Seasonal Variability / 3 Giant Planets    | Comments to leigh.fletcher@le.ac.uk |
 | Leigh Fletcher     | [Google Docs](https://docs.google.com/document/d/1WJYXi-yH84tX3WQTzTbSjRq7j9zj4kaKwR3EQJUFp44/edit?usp=sharing)       | Community Triggers for Rare Events  | Comments to leigh.fletcher@le.ac.uk |
 | Amy Simon | [GitHub docx](simon-JWST_long_v4.docx) | OPAL-type program | Send comments to amy.simon@nasa.gov |
-| Mike Wong | -- | Cadence observations supporting NASA planetary exploration | Send comments to mikewong@astro.berkeley.edu |
+| Mike Wong | [GitHub docx](wong_NASAmissions_v1.docx) | Cadence observations supporting NASA/ESA planetary exploration | Send comments to mikewong@astro.berkeley.edu |
 | Mike Wong | -- | APT checkbox: Long-term variability | Send comments to mikewong@astro.berkeley.edu |
 | Damya Souami | -- | Long-term monitoring of the rings of Ice Giants with JWST/NIRCam | Send comments to damya.souami@obspm.fr or damya.souami@berkeley.edu |
 

@@ -19,8 +19,8 @@ Whitepapers are supposed to be one page, but at the Town Hall, Working Group co-
 
 | Lead author | Link | Topic | Request |
 | :---         |     :---     | :--- | :--- |
-| Leigh Fletcher   | [Google Docs](https://docs.google.com/document/d/1ArhQffe0wiP8N88vIxjJ9umiaty-q813Tr1u38E94Fg/edit?usp=sharing)     | Seasonal Variability / 3 Giant Planets    | Comments to leigh.fletcher@le.ac.uk |
-| Leigh Fletcher     | [Google Docs](https://docs.google.com/document/d/1WJYXi-yH84tX3WQTzTbSjRq7j9zj4kaKwR3EQJUFp44/edit?usp=sharing)       | Community Triggers for Rare Events  | Comments to leigh.fletcher@le.ac.uk |
+| Leigh Fletcher   |   [Github](https://github.com/JWSTGiantPlanets/variability-whitepapers/blob/main/JWSTLongTermWP_seasonalgiants.pdf)   | Climate Variability on the Seasonal Giant Planets    | Comments to leigh.fletcher@le.ac.uk |
+| Leigh Fletcher     | [Github](https://github.com/JWSTGiantPlanets/variability-whitepapers/blob/main/JWSTLongTermWP_rareevents.pdf)       | Community Triggers for Rare Solar System Events  | Comments to leigh.fletcher@le.ac.uk |
 | Amy Simon | [GitHub docx](simon-JWST_long_v4.docx) | OPAL-type program | Send comments to amy.simon@nasa.gov |
 | Mike Wong | [GitHub docx](wong_NASAmissions_v1.docx) | Cadence observations supporting NASA/ESA planetary exploration | Send comments to mikewong@astro.berkeley.edu |
 | Mike Wong | [GitHub docx](wong_APT_v1.docx) | APT checkbox: Long-term variability | Send comments to mikewong@astro.berkeley.edu |
